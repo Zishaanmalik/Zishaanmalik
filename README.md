@@ -25,7 +25,7 @@ I enjoy building practical systems using deep learning, NLP, and classical ML, a
 ## 📫 Contact
 **Email:** zishaan2426@gmail.com  
 **LinkedIn:** linkedin.com/in/zishaanmallikhb  
-**GitHub:** github.com/Zishaanmailk  
+**GitHub:** github.com/Zishaanmalik  
 
 ---
 
