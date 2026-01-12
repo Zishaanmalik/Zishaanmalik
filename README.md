@@ -16,26 +16,17 @@ I enjoy building practical systems using deep learning, NLP, and classical ML, a
 ## 🛠️ Skills
 
 **Languages:** Python, C, C++, Java  
-
 **ML/DL:** MLP, CNN, RNN, LSTM, GRU, NLP, LLMs 
-
-**Libraries:** PyTorch, Tensorflow, Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn 
-
+**Libraries:** PyTorch, Tensorflow, Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn  
 **Other Areas:** Socket programming, multithreading, data preprocessing, ML evaluation  
-
 
 ---
 
 ## 📫 Contact
-
 **Email:** zishaan2426@gmail.com  
-
 **LinkedIn:** linkedin.com/in/zishaanmallikhb  
-
-**Huggingface:** huggingface.co/Zishaanmalik
-
+**Huggingface:** huggingface.co/Zishaanmalik  
 **GitHub:** github.com/Zishaanmalik 
 
 ---
-
 Thank you for visiting!
