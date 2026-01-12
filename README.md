@@ -6,7 +6,7 @@ I enjoy building practical systems using deep learning, NLP, and classical ML, a
 ---
 
 ## 🔍 About Me
-- Interested in machine learning, deep learning, and applied AI  
+- Interested in machine learning, deep learning, LLMs and applied AI  
 - I like understanding concepts by implementing them from scratch  
 - Comfortable with backend logic, networking basics, and simulation-style programs  
 - Learning consistently and exploring different subdomains of AI  
@@ -15,8 +15,8 @@ I enjoy building practical systems using deep learning, NLP, and classical ML, a
 
 ## 🛠️ Skills
 **Languages:** Python, C, C++, Java  
-**ML/DL:** MLP, CNN, RNN, LSTM, GRU, NLP  
-**Libraries:** PyTorch, Scikit-learn, NumPy, Pandas, Matplotlib  
+**ML/DL:** MLP, CNN, RNN, LSTM, GRU, NLP, LLMs 
+**Libraries:** PyTorch, Tensorflow, Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn 
 **Other Areas:** Socket programming, multithreading, data preprocessing, ML evaluation  
 
 
@@ -25,7 +25,8 @@ I enjoy building practical systems using deep learning, NLP, and classical ML, a
 ## 📫 Contact
 **Email:** zishaan2426@gmail.com  
 **LinkedIn:** linkedin.com/in/zishaanmallikhb  
-**GitHub:** github.com/Zishaanmalik  
+**Huggingface:** huggingface.co/Zishaanmalik
+**GitHub:** github.com/Zishaanmalik 
 
 ---
 
