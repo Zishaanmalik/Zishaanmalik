@@ -16,7 +16,7 @@ I enjoy building practical systems using deep learning, NLP, LLMs and classical 
 ## 🛠️ Skills
 
 **Languages:** Python, C, C++, Java  
-**ML/DL:**Classical Machine Learning, MLP, CNN, RNN, LSTM, Encoder–Decoder, Attention, Transformers, NLP, LLMs, Generative AI  
+**ML/DL:** Classical Machine Learning, MLP, CNN, RNN, LSTM, Encoder–Decoder, Attention, Transformers, NLP, LLMs, Generative AI  
 **Libraries:** PyTorch, Tensorflow, Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn  
 **Other Areas:** Socket programming, multithreading, data preprocessing, ML evaluation  
 
