@@ -15,6 +15,16 @@ I enjoy building practical systems using deep learning, NLP, LLMs and classical 
 
 ## 🛠️ Skills
 
+### **ML / DL**
+**ML/DL:** Classical Machine Learning, MLP, CNN, RNN, LSTM, Encoder–Decoder, Attention, Transformers, NLP, LLMs, Generative AI  
+
+---
+
+### **Other Areas**
+**Other Areas:** Socket programming, multithreading, data preprocessing, ML evaluation  
+
+---
+
 ### **Languages**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
@@ -36,16 +46,6 @@ I enjoy building practical systems using deep learning, NLP, LLMs and classical 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg" width="50"/>
 </p>
-
----
-
-### **ML / DL**
-**ML/DL:** Classical Machine Learning, MLP, CNN, RNN, LSTM, Encoder–Decoder, Attention, Transformers, NLP, LLMs, Generative AI  
-
----
-
-### **Other Areas**
-**Other Areas:** Socket programming, multithreading, data preprocessing, ML evaluation  
 
 ---
 
