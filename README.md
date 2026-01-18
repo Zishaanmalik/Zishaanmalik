@@ -23,13 +23,6 @@ I enjoy building practical systems using deep learning, NLP, LLMs and classical 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
 </p>
 
-**Languages:** Python, C, C++, Java  
-
----
-
-### **ML / DL**
-**ML/DL:** Classical Machine Learning, MLP, CNN, RNN, LSTM, Encoder–Decoder, Attention, Transformers, NLP, LLMs, Generative AI  
-
 ---
 
 ### **Libraries**
@@ -42,7 +35,10 @@ I enjoy building practical systems using deep learning, NLP, LLMs and classical 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
 </p>
 
-**Libraries:** PyTorch, Tensorflow, Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn  
+---
+
+### **ML / DL**
+**ML/DL:** Classical Machine Learning, MLP, CNN, RNN, LSTM, Encoder–Decoder, Attention, Transformers, NLP, LLMs, Generative AI  
 
 ---
 
