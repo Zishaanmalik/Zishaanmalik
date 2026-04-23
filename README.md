@@ -45,7 +45,7 @@ Diffusion Models (Image & Audio), Generative AI
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/logo-dark.png" width="50"/> 
+  <img src="https://seeklogo.com/images/L/langchain-logo-6A3C5E9E6E-seeklogo.com.png" width="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
