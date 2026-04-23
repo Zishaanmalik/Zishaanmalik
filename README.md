@@ -25,7 +25,6 @@ Encoder–Decoder Architectures, Attention Mechanisms, Transformers, Conformers
 Natural Language Processing (NLP), Large Language Models (LLMs)  
 **Generative Modeling:**  
 Diffusion Models (Image & Audio), Generative AI
-
 ### **Other Areas**
 **Other Areas:** Socket programming, multithreading, data preprocessing, ML evaluation  
 
@@ -46,7 +45,7 @@ Diffusion Models (Image & Audio), Generative AI
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="50"/>
-  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="50"/>  
+  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/logo.png" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
