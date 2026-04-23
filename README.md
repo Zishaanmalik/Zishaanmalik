@@ -16,7 +16,18 @@ I enjoy building practical systems using deep learning, NLP, LLMs and classical 
 ## 🛠️ Skills
 
 ### **ML / DL**
-**ML/DL:** Classical Machine Learning, Neural Networks (MLP, CNN, RNN, LSTM), Encoder–Decoder Architectures, Attention Mechanisms, Transformers, Conformers, NLP, LLMs, Generative AI (Diffusion Models for Image & Audio)  
+
+**Foundations:**  
+Classical Machine Learning, Neural Networks (MLP, CNN, RNN, LSTM)  
+
+**Sequence & Representation Learning:**  
+Encoder–Decoder Architectures, Attention Mechanisms, Transformers, Conformers  
+
+**Language Modeling:**  
+Natural Language Processing (NLP), Large Language Models (LLMs)  
+
+**Generative Modeling:**  
+Diffusion Models (Image & Audio), Generative AI
 
 ---
 
