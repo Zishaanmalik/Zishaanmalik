@@ -19,17 +19,12 @@ I enjoy building practical systems using deep learning, NLP, LLMs and classical 
 
 **Foundations:**  
 Classical Machine Learning, Neural Networks (MLP, CNN, RNN, LSTM)  
-
 **Sequence & Representation Learning:**  
 Encoder–Decoder Architectures, Attention Mechanisms, Transformers, Conformers  
-
 **Language Modeling:**  
 Natural Language Processing (NLP), Large Language Models (LLMs)  
-
 **Generative Modeling:**  
 Diffusion Models (Image & Audio), Generative AI
-
----
 
 ### **Other Areas**
 **Other Areas:** Socket programming, multithreading, data preprocessing, ML evaluation  
