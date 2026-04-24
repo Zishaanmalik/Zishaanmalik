@@ -1,7 +1,7 @@
 # Hi, I'm Zishaanmalik Hubballi
 
-I am Computer Science student focusing on **Artificial Intelligence and Machine Learning**.  
-I enjoy building practical systems using deep learning, NLP, LLMs and classical ML, along with tools that help me understand model behaviour, optimization, and data flow.
+I work on understanding the internal mechanics of learning systems while building them into practical, high-performance implementations.
+My focus is on turning theoretical ideas into structured, efficient models that hold up in real-world scenarios.
 
 ---
 
