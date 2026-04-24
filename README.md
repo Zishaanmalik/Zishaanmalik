@@ -16,10 +16,15 @@ I enjoy building practical systems using deep learning, NLP, LLMs and classical 
 ## 🛠️ Skills
 
 ### **ML / DL**
-**ML/DL:** Classical Machine Learning, Neural Networks (MLP, CNN, RNN, LSTM), Encoder–Decoder Architectures, Attention Mechanisms, Transformers, Conformers, NLP, LLMs, Generative AI (Diffusion Models for Image & Audio)  
 
----
-
+**Foundations:**  
+Classical Machine Learning, Neural Networks (MLP, CNN, RNN, LSTM)  
+**Sequence & Representation Learning:**  
+Encoder–Decoder Architectures, Attention Mechanisms, Transformers, Conformers  
+**Language Modeling:**  
+Natural Language Processing (NLP), Large Language Models (LLMs)  
+**Generative Modeling:**  
+Diffusion Models (Image & Audio), Generative AI
 ### **Other Areas**
 **Other Areas:** Socket programming, multithreading, data preprocessing, ML evaluation  
 
@@ -40,7 +45,7 @@ I enjoy building practical systems using deep learning, NLP, LLMs and classical 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="50"/>
-  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="50"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
