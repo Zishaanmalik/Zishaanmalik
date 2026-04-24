@@ -1,6 +1,6 @@
 # Hi, I'm Zishaanmalik Hubballi
 
-I work on understanding the internal mechanics of learning systems while building them into practical, high-performance implementations. My focus is on turning theoretical ideas into structured, efficient models that hold up in real-world scenarios.
+I work on understanding the internal mechanics of learning systems while building them into practical, high-performance implementations. My focus is on turning theoretical ideas into structured, efficient models that hold up in real-world scenarios.   
 I enjoy building practical systems using deep learning, NLP, LLMs and classical ML, along with tools that help me understand model behaviour, optimization, and data flow.
 
 ---
@@ -45,7 +45,7 @@ Diffusion Models (Image & Audio), Generative AI
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="50"/>
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
