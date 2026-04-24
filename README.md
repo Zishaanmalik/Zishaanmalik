@@ -1,24 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f1923,100:091a2a&height=220&section=header&text=Zishaanmalik%20Hubballi&fontSize=40&fontColor=e6edf3&fontAlignY=40&fontAlign=50&desc=ML%20Researcher%20%20%7C%20%20Deep%20Learning%20%20%7C%20%20LLMs%20%20%7C%20%20Applied%20AI&descAlignY=60&descSize=15&descColor=6e7681" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0b1220,100:0f172a&height=220&section=header&text=Zishaan%20Malik&fontSize=42&fontColor=e2e8f0&fontAlignY=40&desc=Machine%20Learning%20%20%7C%20%20Deep%20Learning%20%20%7C%20%20LLMs%20%20%7C%20%20Applied%20AI&descAlignY=62&descSize=15&descColor=94a3b8" width="100%"/>
 
 </div>
 
 <br/>
 
 ```
-Turning theoretical ideas into structured, efficient models that hold up in real-world scenarios.
-Interested in understanding the internal mechanics of learning systems — and building them.
+Understanding learning systems at a fundamental level and implementing them as efficient, real-world models.
+Focused on deep learning architectures, optimization, and building systems that are structured, scalable, and reliable.
 ```
 
 <br/>
 
 ## `// about`
 
-- ML, deep learning, LLMs and applied AI — interest runs deep, not surface-level
-- Builds understanding by implementing from scratch — Transformers, attention, diffusion
-- Comfortable at the intersection of theory and production: backend logic, networking, simulation
-- Exploring and documenting every subdomain systematically
+- Works across ML, deep learning, and LLMs with strong emphasis on system-level understanding  
+- Builds models from scratch — transformers, attention mechanisms, diffusion pipelines  
+- Combines theory with implementation: backend systems, simulation, and performance tuning  
+- Explores domains systematically with a focus on clarity and reproducibility  
 
 <br/>
 
@@ -37,7 +37,7 @@ MLP · CNN · RNN · LSTM
 **Sequence & Representation**
 ```
 Encoder–Decoder Architectures
-Attention Mechanisms · Transformers · Conformers
+Attention · Transformers · Conformers
 ```
 
 </td>
@@ -45,34 +45,34 @@ Attention Mechanisms · Transformers · Conformers
 
 **Language Modeling**
 ```
-NLP · Large Language Models (LLMs)
-GPT-style · BERT-style architectures
+NLP · LLMs
+GPT-style · BERT-style
 ```
 
 **Generative Modeling**
 ```
-Diffusion Models — Image & Audio
-Score matching · noise schedules
+Diffusion Models (Image/Audio)
+Score Matching · Noise Schedules
 ```
 
 </td>
 </tr>
 </table>
 
-**Other:** Socket programming · Multithreading · Data preprocessing · ML evaluation
+**Other:** Socket Programming · Multithreading · Data Pipelines · ML Evaluation  
 
 <br/>
 
 ## `// languages`
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
 </p>
 
 <br/>
@@ -80,23 +80,23 @@ Score matching · noise schedules
 ## `// libraries & frameworks`
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" title="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" title="Keras"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" title="scikit-learn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" title="Matplotlib"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=85CEC5" height="40" title="LangChain"/>
+  <img src="https://img.shields.io/badge/LangChain-0f172a?style=flat-square&logo=langchain&logoColor=38bdf8" height="28"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logoColor=white" height="40" title="Seaborn"/>
+  <img src="https://img.shields.io/badge/Seaborn-0f172a?style=flat-square&logoColor=38bdf8" height="28"/>
 </p>
 
 <br/>
@@ -105,11 +105,11 @@ Score matching · noise schedules
 
 | | Project | About |
 |---|---|---|
-| `GPT · BERT` | **[Transformer-Architectures](https://github.com/Zishaanmalik/Transformer-Architectures)** | Full Transformer stack from scratch — GPT-style autoregressive and BERT-style bidirectional with complete attention |
-| `from scratch` | **[Glib — ML Library](https://github.com/Zishaanmalik/Glib)** | Lightweight ML lib over NumPy: Linear, Lasso, Ridge, Logistic Regression with custom training loops |
-| `Luong attn` | **[Language-Translation](https://github.com/Zishaanmalik/Language-Translation)** | Encoder–Decoder with Luong Attention — benchmarks pre-Transformer models on translation |
-| `84% acc` | **[Sentence-Similarity-Analysis](https://github.com/Zishaanmalik/Sentence-Similarity-Analysis)** | Hybrid deep model for Quora duplicate detection — semantic embeddings + feature engineering |
-| `NLP` | **[Natural-Language-Processing](https://github.com/Zishaanmalik/Natural-Language-Processing)** | Text preprocessing, vectorization, POS tagging, Word2Vec, and classification |
+| `GPT · BERT` | **[Transformer-Architectures](https://github.com/Zishaanmalik/Transformer-Architectures)** | Full transformer stack from scratch — autoregressive and bidirectional attention |
+| `from scratch` | **[Glib — ML Library](https://github.com/Zishaanmalik/Glib)** | Lightweight ML library over NumPy with custom training loops |
+| `Luong attn` | **[Language-Translation](https://github.com/Zishaanmalik/Language-Translation)** | Encoder–Decoder with attention — translation benchmarking |
+| `84% acc` | **[Sentence-Similarity-Analysis](https://github.com/Zishaanmalik/Sentence-Similarity-Analysis)** | Semantic similarity using hybrid deep learning approach |
+| `NLP` | **[Natural-Language-Processing](https://github.com/Zishaanmalik/Natural-Language-Processing)** | End-to-end NLP pipeline with embeddings and classification |
 
 <br/>
 
@@ -117,19 +117,19 @@ Score matching · noise schedules
 
 <p align="left">
   <a href="mailto:zishaan2426@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-020617?style=for-the-badge&logo=gmail&logoColor=38bdf8"/>
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/zishaanmallikhb">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=38bdf8"/>
   </a>
   &nbsp;
   <a href="https://huggingface.co/Zishaanmalik">
-    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+    <img src="https://img.shields.io/badge/HuggingFace-020617?style=for-the-badge&logo=huggingface&logoColor=38bdf8"/>
   </a>
   &nbsp;
   <a href="https://github.com/Zishaanmalik">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=38bdf8"/>
   </a>
 </p>
 
@@ -139,4 +139,4 @@ Score matching · noise schedules
 <sub><code>// open to research & engineering roles</code></sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:091a2a,50:0f1923,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0b1220,100:020617&height=100&section=footer" width="100%"/>
