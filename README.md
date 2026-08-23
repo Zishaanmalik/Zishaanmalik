@@ -1,15 +1,18 @@
 # Hi, I'm Zishaanmalik Hubballi
 
-I work on understanding the internal mechanics of learning systems while building them into practical, high-performance implementations. My focus is on turning theoretical ideas into structured, efficient models that hold up in real-world scenarios.   
-I enjoy building practical systems using deep learning, NLP, LLMs and classical ML, along with tools that help me understand model behaviour, optimization, and data flow.
+I like understanding how learning systems actually work, not just using them as black boxes. I spend most of my time building, experimenting with, and breaking AI/ML systems to understand what is happening inside them.  
+
+My work has grown from classical machine learning and deep learning into model architecture research, LLMs, RAG, and agentic AI. I enjoy taking an idea from the mathematical or architectural level and turning it into something I can implement, test, and evaluate myself.
 
 ---
 
 ## 🔍 About Me
-- Interested in machine learning, deep learning, LLMs and applied AI  
-- I like understanding concepts by implementing them from scratch  
-- Comfortable with backend logic, networking basics, and simulation-style programs  
-- Learning consistently and exploring different subdomains of AI  
+- Interested in machine learning, deep learning, LLMs, RAG and agentic AI  
+- I like understanding concepts by implementing models and systems from scratch  
+- Researching and experimenting with custom neural architectures, adaptive computation and dynamic routing  
+- Building practical AI systems with LLMs, LangChain and LangGraph
+- Interested in model behaviour, optimization, evaluation and understanding how information flows through a system  
+- Always learning by building, experimenting and questioning how things work  
 
 ---
 
@@ -18,13 +21,22 @@ I enjoy building practical systems using deep learning, NLP, LLMs and classical 
 ### **ML / DL**
 
 **Foundations:**  
-Classical Machine Learning, Neural Networks (MLP, CNN, RNN, LSTM)  
+Classical Machine Learning, Neural Networks, MLPs, CNNs, RNNs, LSTMs  
 **Sequence & Representation Learning:**  
 Encoder–Decoder Architectures, Attention Mechanisms, Transformers, Conformers  
 **Language Modeling:**  
-Natural Language Processing (NLP), Large Language Models (LLMs)  
-**Generative Modeling:**  
-Diffusion Models (Image & Audio), Generative AI
+Natural Language Processing (NLP), Language Models, Large Language Models (LLMs), Embeddings  
+**Generative AI:**  
+Generative AI, Diffusion Models, LLM-based Applications
+**Model Research:**  
+Custom Neural Architectures, Adaptive Computation, Dynamic Routing, Model Architecture Design, Experimental Evaluation  
+
+### **LLM / Agentic AI**
+
+**LLM Applications:**  
+RAG, Retrieval Pipelines, Embeddings, Vector Search, LLM Evaluation
+**Agentic AI:**  
+AI Agents, Tool Calling, Agent Workflows, LangChain, LangGraph
 ### **Other Areas**
 **Other Areas:** Socket programming, multithreading, data preprocessing, ML evaluation  
 
