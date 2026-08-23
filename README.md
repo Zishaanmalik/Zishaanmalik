@@ -27,18 +27,18 @@ Encoder–Decoder Architectures, Attention Mechanisms, Transformers, Conformers
 **Language Modeling:**  
 Natural Language Processing (NLP), Language Models, Large Language Models (LLMs), Embeddings  
 **Generative AI:**  
-Generative AI, Diffusion Models, LLM-based Applications
+Generative AI, Diffusion Models, LLM-based Applications  
 **Model Research:**  
 Custom Neural Architectures, Adaptive Computation, Dynamic Routing, Model Architecture Design, Experimental Evaluation  
 
 ### **LLM / Agentic AI**
 
 **LLM Applications:**  
-RAG, Retrieval Pipelines, Embeddings, Vector Search, LLM Evaluation
+RAG, Retrieval Pipelines, Embeddings, Vector Search, LLM Evaluation  
 **Agentic AI:**  
 AI Agents, Tool Calling, Agent Workflows, LangChain, LangGraph
 ### **Other Areas**
-**Other Areas:** Socket programming, multithreading, data preprocessing, ML evaluation  
+**Other Areas:** Socket programming, Multithreading
 
 ---
 
