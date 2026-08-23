@@ -24,10 +24,9 @@ Encoder–Decoder Architectures, Attention Mechanisms, Transformers, Conformers
 Natural Language Processing (NLP), Language Models, Large Language Models (LLMs), Embeddings  
 **Generative AI:**  
 Diffusion Models, Generative AI  
-**LLM Applications:**  
-RAG, Retrieval Pipelines, Vector Search, LLM Evaluation  
-**Agentic AI:**  
-AI Agents, Tool Calling, Agent Workflows
+**LLM Applications & Agentic AI:**  
+RAG, Retrieval Pipelines, Vector Search, LLM Evaluation, AI Agents, Tool Calling, Agent Workflows  
+
 ### **Other Areas**
 **Other Areas:** Socket programming, Multithreading
 
