@@ -46,7 +46,7 @@ AI Agents, Tool Calling, Agent Workflows
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
-  <img src="https://cdn.simpleicons.org/langgraph" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
 </p>
 
 ---
@@ -62,7 +62,7 @@ AI Agents, Tool Calling, Agent Workflows
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/img/langgraph.svg" width="50"/>
+  <img src="https://cdn.simpleicons.org/langgraph" width="50"/>
 </p>
 
 ---
