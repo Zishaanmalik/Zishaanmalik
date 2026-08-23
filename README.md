@@ -1,14 +1,12 @@
 # Hi, I'm Zishaanmalik Hubballi
 
-I like understanding how learning systems actually work, not just using them as black boxes. I spend most of my time building, experimenting with, and breaking AI/ML systems to understand what is happening inside them.  
-My work has grown from classical machine learning and deep learning into model architecture research, LLMs, RAG, and agentic AI. I enjoy taking an idea from the mathematical or architectural level and turning it into something I can implement, test, and evaluate myself.
+I like understanding how learning systems actually work, not just using them as black boxes. I spend most of my time building, experimenting with, and breaking AI/ML systems to understand what is happening inside them. My work has grown from classical machine learning and deep learning into model architecture research, LLMs, RAG, and agentic AI. I enjoy taking an idea from the mathematical or architectural level and turning it into something I can implement, test, and evaluate myself.
 
 ---
 
 ## 🔍 About Me
 - Interested in machine learning, deep learning, LLMs, RAG and agentic AI  
 - I like understanding concepts by implementing models and systems from scratch  
-- Researching and experimenting with custom neural architectures, adaptive computation and dynamic routing  
 - Building practical AI systems with LLMs, LangChain and LangGraph
 - Interested in model behaviour, optimization, evaluation and understanding how information flows through a system  
 - Always learning by building, experimenting and questioning how things work  
@@ -18,7 +16,6 @@ My work has grown from classical machine learning and deep learning into model a
 ## 🛠️ Skills
 
 ### **ML / DL**
-
 **Foundations:**  
 Classical Machine Learning, Neural Networks, MLPs, CNNs, RNNs, LSTMs  
 **Sequence & Representation Learning:**  
@@ -27,9 +24,6 @@ Encoder–Decoder Architectures, Attention Mechanisms, Transformers, Conformers
 Natural Language Processing (NLP), Language Models, Large Language Models (LLMs), Embeddings  
 **Generative AI:**  
 Diffusion Models, Generative AI  
-**Model Research:**  
-Custom Neural Architectures, Adaptive Computation, Dynamic Routing, Model Architecture Design, Experimental Evaluation  
-
 ### **LLM / Agentic AI**
 
 **LLM Applications:**  
