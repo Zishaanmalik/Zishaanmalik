@@ -62,7 +62,7 @@ AI Agents, Tool Calling, Agent Workflows
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/docs/static/img/langgraph.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/img/langgraph.png" width="50"/>
 </p>
 
 ---
