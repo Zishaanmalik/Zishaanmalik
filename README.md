@@ -15,7 +15,7 @@ I like understanding how learning systems actually work, not just using them as 
 
 ## 🛠️ Skills
 
-### **ML / DL**
+### **ML / DL / Agentic AI**
 **Foundations:**  
 Classical Machine Learning, Neural Networks, MLPs, CNNs, RNNs, LSTMs  
 **Sequence & Representation Learning:**  
@@ -24,8 +24,6 @@ Encoder–Decoder Architectures, Attention Mechanisms, Transformers, Conformers
 Natural Language Processing (NLP), Language Models, Large Language Models (LLMs), Embeddings  
 **Generative AI:**  
 Diffusion Models, Generative AI  
-### **LLM / Agentic AI**
-
 **LLM Applications:**  
 RAG, Retrieval Pipelines, Vector Search, LLM Evaluation  
 **Agentic AI:**  
