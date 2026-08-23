@@ -26,16 +26,16 @@ Encoder–Decoder Architectures, Attention Mechanisms, Transformers, Conformers
 **Language Modeling:**  
 Natural Language Processing (NLP), Language Models, Large Language Models (LLMs), Embeddings  
 **Generative AI:**  
-Generative AI, Diffusion Models, LLM-based Applications  
+Diffusion Models, Generative AI  
 **Model Research:**  
 Custom Neural Architectures, Adaptive Computation, Dynamic Routing, Model Architecture Design, Experimental Evaluation  
 
 ### **LLM / Agentic AI**
 
 **LLM Applications:**  
-RAG, Retrieval Pipelines, Embeddings, Vector Search, LLM Evaluation  
+RAG, Retrieval Pipelines, Vector Search, LLM Evaluation  
 **Agentic AI:**  
-AI Agents, Tool Calling, Agent Workflows, LangChain, LangGraph
+AI Agents, Tool Calling, Agent Workflows
 ### **Other Areas**
 **Other Areas:** Socket programming, Multithreading
 
@@ -62,6 +62,7 @@ AI Agents, Tool Calling, Agent Workflows, LangChain, LangGraph
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/docs/static/img/langgraph.png" width="50"/>
 </p>
 
 ---
