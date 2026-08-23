@@ -1,7 +1,6 @@
 # Hi, I'm Zishaanmalik Hubballi
 
 I like understanding how learning systems actually work, not just using them as black boxes. I spend most of my time building, experimenting with, and breaking AI/ML systems to understand what is happening inside them.  
-
 My work has grown from classical machine learning and deep learning into model architecture research, LLMs, RAG, and agentic AI. I enjoy taking an idea from the mathematical or architectural level and turning it into something I can implement, test, and evaluate myself.
 
 ---
