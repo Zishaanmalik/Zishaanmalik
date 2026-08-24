@@ -27,7 +27,7 @@ Diffusion Models, Generative AI
 **LLM Applications & Agentic AI:**  
 RAG, Retrieval Pipelines, Vector Search, LLM Evaluation, AI Agents, Tool Calling, Agent Workflows  
 
-### **Other Areas**
+#### **Other Areas**
 **Other Areas:** Socket programming, Multithreading
 
 ---
