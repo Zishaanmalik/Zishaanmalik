@@ -28,7 +28,7 @@ Diffusion Models, Generative AI
 RAG, Retrieval Pipelines, Vector Search, LLM Evaluation, AI Agents, Tool Calling, Agent Workflows  
 
 #### **Other Areas**
-**Other Areas:** Socket programming, Multithreading
+Socket programming, Multithreading
 
 ---
 
